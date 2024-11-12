@@ -24,9 +24,14 @@ wget https://raw.githubusercontent.com/z0ok/my_env/refs/heads/main/z0ok.zsh-them
 sed -i "s/ZSH_THEME=\"robbyrussell\"/ZSH_THEME=\"z0ok\"/" ~/.zshrc
 ```
 
-# Zsh
+# Only Zsh
 
 Add time without oh-my-zsh package.
+
+```
+┌──(kali@hostname)-[12/11 7:03]-[/home/kali]
+└─$ 
+```
 
 Open `~/.zshrc`, find function `configure_prompt()` and lines:
 
