@@ -11,9 +11,11 @@ My custom theme, based on default kali with date:time.
 └─$ 
 ```
 
-Add theme file to `/home/[USER]/.oh-my-zsh/themes`.
+## How to
 
-Add to .zshrc: 
+1) Install [oh-my-zsh](https://ohmyz.sh/#install)
+2) Add theme file to `/home/[USER]/.oh-my-zsh/themes`.
+3) Add to .zshrc: 
 ```
 ZSH_THEME="z0ok"
 ```
